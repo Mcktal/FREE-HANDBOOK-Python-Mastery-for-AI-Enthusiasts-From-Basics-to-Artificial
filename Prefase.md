@@ -12,4 +12,5 @@ This handbook will not explain each function or method deeply. If you have quest
 For a deeper dive into Python code and syntax, I recommend visiting pynative.com, a valuable resource to enhance your learning. When it comes to exploring individual functions or methods, you have the power of the internet at your fingertips, and don't forget our AI assistant, ChatGPT (or equivalent), is just a conversation away for quick insights.
 
 Remember, in the realm of AI your potential is limitless. Wishing you the best of luck and happy coding. 
+
 — Michael
