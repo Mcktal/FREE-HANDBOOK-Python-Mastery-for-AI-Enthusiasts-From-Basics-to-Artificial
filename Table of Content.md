@@ -1,5 +1,6 @@
-# Python-Mastery-for-AI-Enthusiasts-From-Basics-to-Artificial 
---- Table of content ---
+# --- Table of content ---
+Python-Mastery-for-AI-Enthusiasts-From-Basics-to-Artificial 
+
 # Module 1 – General topics	
   Initial quick research for basic functions; 
   Storing data in python; 	
